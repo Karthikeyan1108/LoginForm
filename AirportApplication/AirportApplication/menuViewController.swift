@@ -15,6 +15,8 @@ class menuViewController: UIViewController,UIGestureRecognizerDelegate {
         
         self.view.backgroundColor=UIColor(red:0.03, green: 0.03, blue: 0.17, alpha: 1.0)
         let label=UILabel(frame: CGRectMake(125, 0, 200, 100))
+        //changes
+        
         label.text="Menu"
         label.textColor=UIColor.whiteColor()
         label.font=UIFont(name: "tmn", size: 30)
