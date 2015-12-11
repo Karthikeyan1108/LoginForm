@@ -11,7 +11,8 @@
 import UIKit
 
 
-// Image declaration
+// Image declaration changes
+
 
 let imageview1 = UIImageView(frame:CGRectMake(5,25, 30, 30))
 let imageview2 = UIImageView(frame:CGRectMake(20,25, 30, 30))
